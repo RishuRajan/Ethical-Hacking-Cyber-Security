@@ -1,0 +1,5 @@
+Question 1
+1. Create a shellcode to exploit windows OS
+2. Execute the shellcode on Windows
+3. Get a Meterpreter.
+4. Upload and Download few files from the exploited system
