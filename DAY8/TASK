@@ -1,0 +1,3 @@
+Q1. Create a user named bob in Kali.
+Q2. Enable ssh on Kali
+Q3. Allow bob to login into kali from git bash without a password using keys.
